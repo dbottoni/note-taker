@@ -1,8 +1,7 @@
 const router = require('express').Router();
 const fs = require('fs');
-//const { notes } = require('../db/db.json');
 
-//var notesArray = [];
+var notesArray = [];
 
 router.get('/notes', (req, res) => {
   fs.readFile('db/db.json', (err,data) => {
