@@ -11,5 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbottoni/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dbottoni/note-taker/issues"
+  },
+  "homepage": "https://github.com/dbottoni/note-taker#readme"
 }
