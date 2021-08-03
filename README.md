@@ -2,13 +2,18 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Contact](#contact)
 
 ## Description
 
 An application that allows for the creation and deletion of notes to track daily activities
+
+## Built With
+- JavaScript
+- Node
+- Heroku
 
 ### Application Screenshots
 
@@ -16,28 +21,23 @@ An application that allows for the creation and deletion of notes to track daily
 
 ![note-taker-notes-page](https://user-images.githubusercontent.com/72705457/128044558-447ded5f-a8ce-43d7-94d0-3a85f5a0bb7c.png)
 
-
 ### Deployed Heroku App
 
 https://danas-note-taker.herokuapp.com/notes
 
 
-## Installation
-
-Requires Node.js to run from the command line
-
 ## Usage
 
-This application is used to quickly create a team profile page
+This application is used to quickly create and post notes
 
 ## Credits
 
-#### Ben Gallagher- HTML Markdown
+#### Ben Gallagher
 
 #### https://github.com/Bgallag5
 
 
-## Contact Info
+## Contact
 
 ### Please contact me with any questions;
 
