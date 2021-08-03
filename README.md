@@ -12,8 +12,9 @@ An application that allows for the creation and deletion of notes to track daily
 
 ### Application Screenshots
 
+![note-taker-homepage](https://user-images.githubusercontent.com/72705457/128044546-72c8e5e1-bffc-48cc-b7dd-8ddefe074973.png)
 
-
+![note-taker-notes-page](https://user-images.githubusercontent.com/72705457/128044558-447ded5f-a8ce-43d7-94d0-3a85f5a0bb7c.png)
 
 
 ### Deployed Heroku App
